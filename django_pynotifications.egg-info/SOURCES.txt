@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+django_pynotifications/__init__.py
+django_pynotifications/admin.py
+django_pynotifications/apps.py
+django_pynotifications/models.py
+django_pynotifications/tests.py
+django_pynotifications/urls.py
+django_pynotifications/views.py
+django_pynotifications/wrapper.py
+django_pynotifications.egg-info/PKG-INFO
+django_pynotifications.egg-info/SOURCES.txt
+django_pynotifications.egg-info/dependency_links.txt
+django_pynotifications.egg-info/top_level.txt
